@@ -121,7 +121,7 @@ bash /home/krakozaybr/informatics-lab6/script.bash
 Работа сделана!
 
 ## Источники
-[Статья про планировщики at и cron](https://basis.gnulinux.pro/ru/latest/basis/37/37._%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%B8_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87.html)
-[Статья про cron на habr](https://habr.com/ru/companies/skillfactory/articles/656423/)
-[Документация cron](https://man7.org/linux/man-pages/man5/crontab.5.html)
+[Статья про планировщики at и cron](https://basis.gnulinux.pro/ru/latest/basis/37/37._%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%B8_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87.html)<br>
+[Статья про cron на habr](https://habr.com/ru/companies/skillfactory/articles/656423/)<br>
+[Документация cron](https://man7.org/linux/man-pages/man5/crontab.5.html)<br>
 [Источник где можно найти все](https://google.com)
